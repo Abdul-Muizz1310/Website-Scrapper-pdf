@@ -1,6 +1,7 @@
 # 📚 JavaScript.info PDF Scraper — Individual Article PDFs
 
-This Python project crawls all tutorial pages on [https://javascript.info](https://javascript.info), extracts **only the core content** (`<div itemprop="articleBody">`), removes all distractions like navigation bars, comments, links, and images, and then saves **each page as a clean PDF**.
+This Python project crawls all tutorial pages on [https://javascript.info](https://javascript.info), extracts **only the core content**
+(`<div itemprop="articleBody">`), removes all distractions like navigation bars, comments, links, and images, and then saves **each page as a clean PDF**.
 
 > ✅ Perfect for offline study, archiving, or printing
 
